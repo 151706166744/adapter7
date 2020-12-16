@@ -1,0 +1,4 @@
+include ':providerTest'
+include ':ContactsTest'
+include ':app'
+rootProject.name = "RuntimePermissionTest"
